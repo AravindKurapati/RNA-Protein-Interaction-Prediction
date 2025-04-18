@@ -71,26 +71,19 @@ Preprocessing includes:
 
 ## ** Citation**
 
-@article{lee2020biobert,
-  title={BioBERT: a pre-trained biomedical language representation model for biomedical text mining},
-  author={Lee, Jinhyuk and Yoon, Wonjin and Kim, Sungdong and Kim, Donghyeon and So, Chan Ho and Kang, Jaewoo},
-  journal={Bioinformatics},
-  volume={36},
-  number={4},
-  pages={1234--1240},
-  year={2020},
-  publisher={Oxford University Press}
-}
-Model repo: https://huggingface.co/dmis-lab/biobert-v1.1
+## 📚 Citation
 
+**BioBERT**  
+Lee, J., Yoon, W., Kim, S., Kim, D., So, C.H., & Kang, J. (2020).  
+*BioBERT: a pre-trained biomedical language representation model for biomedical text mining*.  
+Bioinformatics, 36(4), 1234–1240.  
+[Paper Link](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) • [Hugging Face Model](https://huggingface.co/dmis-lab/biobert-v1.1)
 
-@article{lin2023esm2,
-  title={Language models of protein sequences at the scale of evolution enable accurate structure and function prediction},
-  author={Lin, Zeming and Akin, Haydar and Rao, Roshan and Hie, Brian and others},
-  journal={bioRxiv},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory}
-}
-GitHub repo: https://github.com/facebookresearch/esm
-Model repo: https://huggingface.co/facebook/esm2_t6_8M_UR50D
 ---
+
+**ESM2**  
+Lin, Z., Akin, H., Rao, R., Hie, B., et al. (2023).  
+*Language models of protein sequences at the scale of evolution enable accurate structure and function prediction*.  
+bioRxiv.  
+[Paper Link](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v2) • [GitHub](https://github.com/facebookresearch/esm) • [Hugging Face Model](https://huggingface.co/facebook/esm2_t6_8M_UR50D)
+
