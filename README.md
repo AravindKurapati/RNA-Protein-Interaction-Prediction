@@ -69,9 +69,8 @@ Preprocessing includes:
 
 ---
 
-## ** Citation**
 
-## 📚 Citation
+##  Citation
 
 **BioBERT**  
 Lee, J., Yoon, W., Kim, S., Kim, D., So, C.H., & Kang, J. (2020).  
